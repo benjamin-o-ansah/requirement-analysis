@@ -86,4 +86,4 @@ Nonfunctional requirements describe how the system performs its functions. They 
 - The system must be available at all times with minimal downtime, ensuring 99.9 percent uptime so users can make bookings and hotel managers can update listings when needed.
 
 ![Use Case Diagram]
-https://github.com/https://github.com/benjamin-o-ansah/requirement-analysis/blob/main/alx-booking-uc.png
+https://github.com/https://github.com/benjamin-o-ansah/requirement-analysis/alx-booking-uc.png
