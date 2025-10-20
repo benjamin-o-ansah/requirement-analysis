@@ -39,3 +39,24 @@ Requirement Analysis is a vital phase in the Software Development Lifecycle (SDL
    When user needs are thoroughly analyzed and understood, the final product aligns closely with expectations. This leads to higher satisfaction, fewer revisions, and a stronger reputation for quality.
 
 In summary, requirement analysis is not just a preliminary step but a strategic process that determines the success or failure of a software project. It ensures alignment between business objectives, user needs, and technical implementation.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that ensure the project team fully understands and documents what needs to be built. The following are the five main activities carried out during this phase:
+
+- **Requirement Gathering:**  
+  This activity involves collecting information from all stakeholders to understand their needs, expectations, and challenges. Common methods include interviews, questionnaires, observation, and document analysis.
+
+- **Requirement Elicitation:**  
+  Elicitation focuses on extracting specific requirements from stakeholders through structured techniques such as brainstorming sessions, focus groups, and prototyping. It helps uncover hidden or implied needs that may not be immediately obvious.
+
+- **Requirement Documentation:**  
+  After gathering and eliciting requirements, the information is documented clearly and systematically. This may include creating Software Requirement Specifications (SRS), user stories, or use case diagrams to provide a detailed description of system behavior.
+
+- **Requirement Analysis and Modeling:**  
+  This step involves examining and organizing the collected requirements to ensure they are consistent, complete, and feasible. Models such as data flow diagrams (DFDs), entity-relationship diagrams (ERDs), or UML models are often used to visualize and analyze requirements.
+
+- **Requirement Validation:**  
+  The final activity ensures that the documented requirements accurately reflect user needs and project objectives. Validation helps detect inconsistencies, ambiguities, or missing details before development begins. It is often achieved through stakeholder reviews, walkthroughs, or prototyping.
+
+Together, these activities form the backbone of effective requirement analysis and contribute significantly to building reliable and user-focused software systems.
