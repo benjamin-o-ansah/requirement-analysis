@@ -103,3 +103,41 @@ representing system behavior from a user’s point of view.
 ![Use Case Diagram]
 https://github.com/https://github.com/benjamin-o-ansah/requirement-analysis/alx-booking-uc.png
 
+## Acceptance Criteria
+
+**Acceptance Criteria** are a vital component of **Requirement Analysis**, as they define the specific conditions that a software feature must meet to be considered complete, functional, and acceptable to stakeholders. They serve as a shared understanding between developers, testers, and business stakeholders of what “done” means for a particular requirement or user story.
+
+### Importance of Acceptance Criteria in Requirement Analysis
+
+1. **Clarifies Expectations:**  
+   Acceptance criteria remove ambiguity by providing clear, measurable conditions that must be fulfilled before a feature can be accepted. This ensures everyone, from developers to product owners, has the same understanding of the feature's functionality.
+
+2. **Guides Development and Testing:**  
+   They act as a checklist for developers and QA testers to verify that all required behaviors are correctly implemented and tested before deployment.
+
+3. **Supports User-Centered Design:**  
+   Well-defined acceptance criteria are written from the user’s perspective, ensuring that development focuses on delivering value and usability.
+
+4. **Reduces Rework and Miscommunication:**  
+   By defining clear success conditions early in the requirement phase, the team can prevent misunderstandings and avoid costly revisions later in the project.
+
+5. **Facilitates Agile Workflows:**  
+   In agile environments, acceptance criteria are used to determine when a user story is considered “done,” supporting better sprint planning and progress tracking.
+
+Example: Acceptance Criteria for the “Checkout” Feature
+
+**Feature:** Checkout Process in the Booking Management System
+
+**User Story:**  
+As a registered user, I want to securely complete my booking and make a payment so that I can confirm my reservation.
+
+**Acceptance Criteria:**
+
+** 1. The system must allow the user to review booking details (dates, location, price, and number of guests) before payment.  
+** 2. The user must be able to choose a payment method (credit/debit card, PayPal, or mobile money).  
+** 3. Payment information must be validated and processed securely via the integrated payment gateway.  
+** 4. Upon successful payment, the system must generate a booking confirmation and send an email or in-app notification to the user.  
+** 5. If the payment fails, the system must display an error message and allow the user to retry or select another payment method.  
+** 6. The booking record must be stored in the database with a unique booking ID and transaction reference.  
+** 7. The system must ensure that room availability is updated immediately after successful payment to prevent overbooking.
+
