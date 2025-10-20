@@ -84,3 +84,6 @@ Nonfunctional requirements describe how the system performs its functions. They 
 - The booking database and search services must scale to handle thousands of concurrent users and millions of hotel listings, reflecting a microservices and elastic search architecture.  
 - Customer data and payment transactions must be encrypted and processed in compliance with security standards to protect user privacy and prevent fraud.  
 - The system must be available at all times with minimal downtime, ensuring 99.9 percent uptime so users can make bookings and hotel managers can update listings when needed.
+
+![Use Case Diagram]
+https://github.com/https://github.com/benjamin-o-ansah/requirement-analysis/blob/main/alx-booking-uc.png
