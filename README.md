@@ -60,3 +60,27 @@ Requirement Analysis involves several key activities that ensure the project tea
   The final activity ensures that the documented requirements accurately reflect user needs and project objectives. Validation helps detect inconsistencies, ambiguities, or missing details before development begins. It is often achieved through stakeholder reviews, walkthroughs, or prototyping.
 
 Together, these activities form the backbone of effective requirement analysis and contribute significantly to building reliable and user-focused software systems.
+
+## Types of Requirements
+
+### Functional Requirements
+
+Functional requirements define what the system must do. They describe the specific behaviors or functions that the booking management solution must support.
+
+**Examples for the booking management project (based on the hotel booking app case study for the Airbnb):**
+
+- Users must be able to search for available hotels based on location, date, number of guests, and filter by amenities.  
+- The system must allow users to book a hotel or room and complete the booking workflow including payment.  
+- Hotel managers must be able to add or update hotel listings such as room types, availability, and pricing.  
+- The system must generate booking confirmations and send notifications by email or in-app to both the user and the hotel manager.  
+
+### Nonfunctional Requirements
+
+Nonfunctional requirements describe how the system performs its functions. They define the operational qualities that the system must possess such as performance, security, usability, reliability, and scalability.
+
+**Examples for the booking management project:**
+
+- The system should respond to a hotel search request within two seconds even under moderate load to ensure a smooth user experience.  
+- The booking database and search services must scale to handle thousands of concurrent users and millions of hotel listings, reflecting a microservices and elastic search architecture.  
+- Customer data and payment transactions must be encrypted and processed in compliance with security standards to protect user privacy and prevent fraud.  
+- The system must be available at all times with minimal downtime, ensuring 99.9 percent uptime so users can make bookings and hotel managers can update listings when needed.
