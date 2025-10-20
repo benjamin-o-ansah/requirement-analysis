@@ -84,3 +84,19 @@ Nonfunctional requirements describe how the system performs its functions. They 
 - The booking database and search services must scale to handle thousands of concurrent users and millions of hotel listings, reflecting a microservices and elastic search architecture.  
 - Customer data and payment transactions must be encrypted and processed in compliance with security standards to protect user privacy and prevent fraud.  
 - The system must be available at all times with minimal downtime, ensuring 99.9 percent uptime so users can make bookings and hotel managers can update listings when needed.
+
+## Use Case Diagrams
+Use Case Diagrams are graphical representations of a system’s functionality that illustrate how various users (called actors) interact with the system to achieve specific goals. They depict the relationships between the actors and the different use cases, 
+representing system behavior from a user’s point of view.
+
+### Benefits of Use Case Diagrams
+
+- Simplify system understanding: Provide a clear overview of what the system does and who interacts with it.
+
+- Improve communication: Bridge the gap between non-technical stakeholders and developers.
+
+- Support requirement validation: Help ensure that all required system functionalities are captured.
+
+- Aid in design and testing: Serve as the foundation for developing user scenarios and test cases.
+
+
